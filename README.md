@@ -8,3 +8,4 @@ The following are the steps to set up and test the api endpoint.
 6. If you need to check specific values or conditions within the response, you can add additional assertions as well on this.
 7. We can further automate this process, as in we can integrate this validation into a CI/CD pipeline or automated testing framework to ensure that API responses continue to meet expectations as the API evolves.
 8. To run the python file we can use the command `python filename.py` or `pytest filename.py`
+9. Kindly check out the main.py file for the source code.
